@@ -33,4 +33,4 @@ Config.announce = true
 3. setjob: Setting job for player on the server.
 4. announce: Write a Announce on the chat in game
   
-![Screenshot](![image](https://user-images.githubusercontent.com/76629105/132097199-8fb23e4e-fd04-4208-beb1-48d7b97320bd.png)
+(![image](https://user-images.githubusercontent.com/76629105/132097199-8fb23e4e-fd04-4208-beb1-48d7b97320bd.png)
